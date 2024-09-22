@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25779825126",
+    "project_id": "android---gem",
+    "storage_bucket": "android---gem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25779825126:android:c6947d1ba236f9c5810e27",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25779825126-3ljqrjv7ok9l1dj1mvijii7ercrukrh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSeSPIB-4FVe0x0Ac5kIaeKJ7y4MaSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25779825126-3ljqrjv7ok9l1dj1mvijii7ercrukrh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,100 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle caches
+**/build/
+**/captures/
+**/outputs/
+gradle-app.setting
+
+# Android Studio specific files
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Keystore files (don't include your keystore files!)
+*.jks
+*.keystore
+
+# Android Studio 3+ auto-generated files
+/output.json
+/.cxx/
+local.properties
+.navigation/
+captures/
+
+# Miscellaneous
+*.iml
+*.hprof
+*.log
+*.lock
+*.orig
+*.pyc
+*.temp
+*.tmp
+*.obj
+*.class
+*.apk
+*.ap_
+*.db
+*.db-journal
+*.so
+*.dll
+*.pdb
+*.o
+*.ko
+*.idx
+*.bin
+*.mk
+*.swp
+*.swo
+*.class
+*.dex
+*.jar
+*.apk
+*.ap_
+*.keystore
+*.orig
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ProGuard
+proguard/
+proguard/*.txt
+proguard/*.pro
+
+# NDk 
+obj/
+
+# IntelliJ IDEA files
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/misc.xml
+.idea/vcs.xml
+.idea/.name
+.idea/modules.xml
+.idea/gradle.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Custom
+/custom/
